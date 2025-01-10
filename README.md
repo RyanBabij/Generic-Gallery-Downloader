@@ -5,9 +5,9 @@ Due to the generic nature of the downloader, links to each gallery page need to 
 
 ## Features:
 
-It fakes being a browser.
-It will re-download an image if it was corrupted. Some galleries sometimes throw corrupted images for some reason.
-It will prepend images with a hash generated from the URL, so you don't need to worry about filename collisions.
+* It fakes being a browser.
+* It will re-download an image if it was corrupted. Some galleries sometimes throw corrupted images for some reason.
+* It will prepend images with a hash generated from the URL, so you don't need to worry about filename collisions.
 
 Make sure you count all the images to make sure you got them all. Some galleries will throw an advertisement link instead of the image, so you should run the downloader again until you have all the images. It will skip over images already downloaded.
 
