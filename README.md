@@ -1,7 +1,7 @@
 # Generic Gallery Downloader
 Python script to download images linked by thumbnails on a webpage. Only works on galleries where the thumbnail directly links to the full image.
 
-Due to the generic nature of the downloader, links to each page need to be manually provided.
+Due to the generic nature of the downloader, links to each gallery page need to be manually provided.
 
 ## Features:
 
